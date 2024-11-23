@@ -42,7 +42,7 @@ If you'd like to contribute to the development of Survivor's Instinct, feel free
 5. Open a pull request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) for details.
 ## Team members
 - **Rishi A Sheth**
 - **Rithvik Rajesh Matta**
