@@ -28,12 +28,6 @@
 2. Unzip the downloaded file.
 3. Open the game executable (`SurvivorsInstinct.exe` or `SurvivorsInstinct.app`).
 
-## Requirements
-- **Operating System**: Windows, macOS, or Linux
-- **RAM**: 4 GB or higher
-- **Graphics**: Any graphics card that supports OpenGL 3.3 or higher
-- **Storage**: 500 MB of available space
-
 ## Development
 - **Engine**: [Godot Engine](https://godotengine.org/)
 - **Version**: Godot 4.x
